@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1016034822111",
+    "firebase_url": "https://chatdemo-9335f.firebaseio.com",
+    "project_id": "chatdemo-9335f",
+    "storage_bucket": "chatdemo-9335f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016034822111:android:2ba5907304aa07ce",
+        "android_client_info": {
+          "package_name": "com.chatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016034822111-j78b1cs3a54pev6uignaqpun4i4lgefl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQi682HDtUBaSSlxVnsuz5I3wF3ZNfft4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
